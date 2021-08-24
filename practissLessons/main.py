@@ -41,7 +41,11 @@
 #     res += int(symbol)
 # print(res)
 
-# lst = [1, 2, 3, 4, 5]
+
+# lst = [1, 2, 3, 4,
+#
+#
+# 5]
 #
 # def my_queue(lst, new_elem, length):
 
